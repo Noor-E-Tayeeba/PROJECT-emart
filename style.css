@@ -1,0 +1,42 @@
+.color{
+    color: #FF1D65;
+}
+
+.carausel-bg{
+    background-color: #FFEAEA;
+    padding: 50px;
+}
+
+/* catagories  */
+
+.cat-shoes{
+    background-color: #0100FF;
+}
+.cat-bag{
+    background-color: #D970D6;
+}
+.cat-watch{
+    background-color:#FFA500 ;
+}
+
+
+
+/* contact section  */
+
+.contact{
+    background-color: #D8BFD7;
+    height: 300px;
+}
+
+.btn-bg{
+    background-color: #FE408B;
+    border: none;
+
+}
+
+/* footer  */
+.footer{
+    text-align: center;
+    color: rgb(190, 187, 187);
+    margin-bottom: 0px;
+}
